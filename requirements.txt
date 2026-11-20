@@ -1,0 +1,11 @@
+langchain>=1.0
+langchain-groq
+langchain-google-genai
+langgraph>=1.0
+langgraph-cli[inmem]
+pypdf
+python-dotenv
+requests
+beautifulsoup4
+tavily-python
+pydantic>=2

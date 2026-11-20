@@ -1,0 +1,43 @@
+Job Title: Junior-to-Mid AI & Machine Learning Engineer (GenAI & Agents)
+
+Location: Cairo, Egypt (Hybrid – 3 days onsite)
+
+Company: NileFlow Technologies
+
+About the Role:
+
+NileFlow Technologies is building autonomous workflow assistants for enterprise operations across the MENA region. We are looking for an AI & Machine Learning Engineer to help design, evaluate, and deploy multi-step LLM agents and computer vision pipelines into production.
+
+Key Responsibilities:
+
+Design and orchestrate stateful AI agent workflows using Python, LangChain, and LangGraph for document processing and customer support automation.
+
+Fine-tune and evaluate transformer-based NLP and Computer Vision models for Arabic and English document extraction.
+
+Build RESTful inference microservices and integrate vector databases for Retrieval-Augmented Generation (RAG).
+
+Containerize ML pipelines using Docker and deploy scalable endpoints on AWS SageMaker and Kubernetes (EKS).
+
+Monitor model latency, token usage, and drift in production environments using automated CI/CD pipelines.
+
+Required Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or a related field (or final-year student with strong applied internship experience).
+
+Strong proficiency in Python and deep learning frameworks (PyTorch or TensorFlow), with hands-on experience in CNNs, RNNs, and Transformers.
+
+Practical experience building LLM applications or tool-calling agents using LangChain, LangGraph, or similar orchestration frameworks.
+
+Familiarity with REST APIs, Git, and relational or NoSQL databases (e.g., PostgreSQL, Firebase, or MongoDB).
+
+Strong analytical skills and ability to communicate technical trade-offs clearly in English.
+
+Preferred / Nice-to-Have Qualifications (Intentional Gaps for Testing):
+
+2+ years of full-time industry experience shipping production ML systems at scale.
+
+Hands-on experience deploying and managing workloads on AWS (SageMaker, EKS) and Kubernetes.
+
+Experience writing high-throughput backend services in Go or Rust.
+
+Familiarity with Apache Spark or large-scale distributed data engineering pipelines.
